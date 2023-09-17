@@ -10,8 +10,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@ant-design/pro-components": "^2.6.18",
+    "ant-design-pro": "^2.3.2",
+    "antd": "^5.9.1",
+    "axios": "^1.5.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.16.0",
+    "sass": "^1.67.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
